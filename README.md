@@ -10,7 +10,7 @@ Busco minha primeira oportunidade profissional para aplicar meus conhecimentos t
 
 ### 🛠 Tecnologias e Ferramentas
 
-**Foco Principal (Certificados e Projetos Atuais):**
+**Com certificação:**
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
