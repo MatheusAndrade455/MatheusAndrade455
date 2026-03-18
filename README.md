@@ -35,6 +35,7 @@ Busco minha primeira oportunidade profissional para aplicar meus conhecimentos t
 ### 🚀 Projeto em Destaque
 **[Sistema de Controle de Despesas Pessoais]**
 * Desafio Full Stack utilizando PHP e MySQL para gestão financeira.
+* Exercício do "Praticando Java: Herança, Polimorfismo e Interfaces" da plataforma Alura utilizando JAVA.
 
 ---
 
