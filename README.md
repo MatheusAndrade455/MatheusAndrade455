@@ -36,6 +36,7 @@ Busco minha primeira oportunidade profissional para aplicar meus conhecimentos t
 **[Sistema de Controle de Despesas Pessoais]**
 * Desafio Full Stack utilizando PHP e MySQL para gestão financeira.
 * Exercícios do "Praticando Java: Herança, Polimorfismo e Interfaces" da plataforma Alura utilizando JAVA.
+* Exercícios do "Java: consumindo API, gravando arquivos e lidando com erros" da plataforma Alura utilizando JAVA.
 
 ---
 
